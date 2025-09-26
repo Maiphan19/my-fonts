@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'LaoPali';
+  src: url('https://cdn.jsdelivr.net/gh/USERNAME/my-fonts@latest/fonts/LaoPali-Regular.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/USERNAME/my-fonts@latest/fonts/LaoPali-Regular.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/USERNAME/my-fonts@latest/fonts/LaoPali-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: 'LaoPali', sans-serif;
+  font-size: 20px;
+  line-height: 1.6;
+  padding: 20px;
+}
