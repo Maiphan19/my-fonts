@@ -3,7 +3,7 @@
 
 @font-face {
   font-family: 'LaoPali';
-  src: url('https://cdn.jsdelivr.net/gh/Maiphan19/my-fonts@latest/fonts/P.Inthavong_Pali.ttf') format('ttf'),
+  src: url('https://cdn.jsdelivr.net/gh/Maiphan19/my-fonts@latest/fonts/P.Inthavong_Pali.ttf') format('opentype'),
        url('https://cdn.jsdelivr.net/gh/Maiphan19/my-fonts@latest/fonts/LaoVannasak5a-Bali.otf') format('opentype'),
        url('https://cdn.jsdelivr.net/gh/Maiphan19/my-fonts@latest/fonts/LaoPaliAlpha-Light.woff') format('woff'),
        url('https://cdn.jsdelivr.net/gh/Maiphan19/my-fonts@latest/fonts/LaoPaliAlpha-Extralight.otf') format('opentype');
